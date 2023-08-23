@@ -1,8 +1,7 @@
 name: Suggestions
-about: Suggest an idea for this project
+description: Suggest an idea for this project
 title: '[SUGGESTION]:'
 labels: enhancement
-assignees: ""
 body:
   - type: markdown
     attributes:
